@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //Vạn sự khởi đầu nan
         //Up lần nữa
+        //Cảm ơn chúa đã giúp phi hùng
     }
 }
